@@ -48,7 +48,7 @@ I love my purple pigtails."
 
 ## Submission
 
-1. Use the following link to create your private github repository for this assignment: [Project 0]()
+1. Use the following link to create your private github repository for this assignment: [Project 0](https://classroom.github.com/a/sdACKbfQ)
 2. For full credit, make sure to follow all [Style Guidelines](https://github.com/CS601-F21/notes/blob/main/admin/style.md). Points will be deducted for each violation.
 3. All code must be submitted to your github repository by **Thursday September 2, 2021 - 9:55am**.
 
