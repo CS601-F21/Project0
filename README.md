@@ -55,7 +55,9 @@ I love my purple pigtails."
 
 ## Grading Rubric
 
-| Points | Criterion |
+Pending.
+
+<!--| Points | Criterion |
 | ------ | -------- |  
 | 60 | **Functionality** - Passes AmazonReviewsTest test case as required. |  
 | 15 | **Design** - Solution is well designed and uses appropriate class and method decomposition. |  
@@ -63,7 +65,7 @@ I love my purple pigtails."
 | 10 | **Design** - Meets all style guidelines. |  
 
 Partial credit *may* be awarded for partial functionality and/or partially correct design or style elements.
-
+-->
 ## Academic Dishonesty
 
 Any work you submit is expected to be your own original work. If you use any web resources in developing your code you are required to cite those resources. The only exception to this rule is code that is posted on the class website. The URL of the resource you used in a comment in your code is fine. If I google even a single line of uncited code and find it on the internet you may get a 0 on the assignment or an F in the class. You may also get a 0 on the assignment or an F in the class if your solution is at all similar to that of any other student.
