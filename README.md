@@ -55,17 +55,21 @@ I love my purple pigtails."
 
 ## Grading Rubric
 
-Pending.
+| Points | Category | Criterion Description | 
+| ------ | -------- | --------------------- |  
+| 65 | **Functionality** | Passes AmazonReviewsTest test case as required. |  
+| 5 | **Design** | Class decomposition is clear and each class has a well-defined function. |  
+| 5 | **Design** | Methods are well designed and all methods (including `main`) perform one well-defined operation. |  
+| 5 | **Design** | Solution uses efficient data structures. |  
+| 5 | **Design** | Solution uses efficient algorithms and avoids unnecessary iterations over the data. |  
+| 7 | **Design** | Solution meets *all* of [style guidelines 1--10](https://github.com/CS601-F21/notes/blob/main/admin/style.md). | 
+| 3 | **Design** | Solution meets [style guideline #11](https://github.com/CS601-F21/notes/blob/main/admin/style.md), documentation requirement. |  
+| 2.5 | **Design** | Solution implements appropriate error handling. |  
+| 2.5 | **Design** | Solution does not hard code configuration parameters. |  
 
-<!--| Points | Criterion |
-| ------ | -------- |  
-| 60 | **Functionality** - Passes AmazonReviewsTest test case as required. |  
-| 15 | **Design** - Solution is well designed and uses appropriate class and method decomposition. |  
-| 15 | **Design** - Solution is efficient, uses appropriate data structures, and avoids unnecessary iterations over the data. |  
-| 10 | **Design** - Meets all style guidelines. |  
+**No** partial credit will be awarded. You will either receive full credit or no credit for each category. Please read the rubric carefully before submission.
 
-Partial credit *may* be awarded for partial functionality and/or partially correct design or style elements.
--->
+
 ## Academic Dishonesty
 
 Any work you submit is expected to be your own original work. If you use any web resources in developing your code you are required to cite those resources. The only exception to this rule is code that is posted on the class website. The URL of the resource you used in a comment in your code is fine. If I google even a single line of uncited code and find it on the internet you may get a 0 on the assignment or an F in the class. You may also get a 0 on the assignment or an F in the class if your solution is at all similar to that of any other student.
